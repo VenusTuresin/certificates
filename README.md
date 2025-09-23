@@ -4,7 +4,7 @@ This repository showcases the certificates I have earned during my learning jour
 
 ## Certificates & Learning
 
-- **Introduction to SQL (Kaggle)**
+**Introduction to SQL (Kaggle)**
 
 Through the Intro to SQL course, I practiced the following key concepts:
 
@@ -18,7 +18,23 @@ Through the Intro to SQL course, I practiced the following key concepts:
 <img width="4800" height="2960" alt="Venüs Türesin - Intro to SQL-2" src="https://github.com/user-attachments/assets/dda2f8b7-71fc-467a-8eaf-17adb1c87398" />
 
 
-- **Introduction to Programming (Kaggle)**
+**Data Visualization (Kaggle)**
+
+Through the Data Visualization course, I practiced the following key concepts:
+
+1. **Hello, Seaborn** – Introduction to coding for data visualization.  
+2. **Line Charts** – Visualizing trends over time.  
+3. **Bar Charts and Heatmaps** – Using color/length to compare categories in a dataset.  
+4. **Scatter Plots** – Exploring relationships between variables on a coordinate plane.  
+5. **Distributions** – Creating histograms and density plots.  
+6. **Choosing Plot Types & Custom Styles** – Customizing charts for clarity and impact.  
+7. **Final Project** – Applying visualization techniques to a real-world dataset.  
+8. **Creating Your Own Notebooks** – Building reproducible, shareable analyses.
+   
+<img width="4800" height="2960" alt="Venüs Türesin - Data Visualization" src="https://github.com/user-attachments/assets/872fc620-d23a-40dd-9559-6d5b0f83cee9" />
+
+
+**Introduction to Programming (Kaggle)**
 
 Through the Intro to Programming course, I practiced the following key concepts:
 
@@ -30,7 +46,8 @@ Through the Intro to Programming course, I practiced the following key concepts:
  
 <img width="4800" height="2960" alt="Venüs Türesin - Intro to Programming" src="https://github.com/user-attachments/assets/0190b5e3-537c-4ed7-b096-8aa795fa5bec" />
 
-- **Python (Kaggle)**
+
+**Python (Kaggle)**
 
 Through the Python course, I practiced the following key concepts:
 
@@ -44,7 +61,8 @@ Through the Python course, I practiced the following key concepts:
    
 <img width="4800" height="2960" alt="Venüs Türesin - Python" src="https://github.com/user-attachments/assets/be1c83fa-4042-47e0-b11f-46d8007fedc2" />
 
-- **Pandas (Kaggle)**
+
+**Pandas (Kaggle)**
   
 Through the Pandas course, I practiced the following key concepts:
 
