@@ -2,7 +2,7 @@
 
 This repository showcases the certificates I have earned during my learning journey in data analysis, SQL, Python, and Programming.  
 
-## Certificates
+## Certificates & Learning
 
 - **Introduction to SQL (Kaggle)**
 
@@ -29,6 +29,33 @@ Through the Intro to Programming course, I practiced the following key concepts:
 5. Intro to Lists – organizing data efficiently using Python lists.
  
 <img width="4800" height="2960" alt="Venüs Türesin - Intro to Programming" src="https://github.com/user-attachments/assets/0190b5e3-537c-4ed7-b096-8aa795fa5bec" />
+
+- **Python (Kaggle)**
+
+Through the Python course, I practiced the following key concepts:
+
+1. Hello, Python – introduction to Python syntax, variables, and numbers.  
+2. Functions and Getting Help – defining functions and using Python’s builtin documentation.  
+3. Booleans and Conditionals – applying branching logic with booleans.  
+4. Lists – indexing, slicing, mutating, and organizing collections.  
+5. Loops and List Comprehensions – working with for/while loops and list comprehensions.  
+6. Strings and Dictionaries – handling two fundamental Python data types.  
+7. Working with External Libraries – importing libraries and leveraging external functionality.
+   
+<img width="4800" height="2960" alt="Venüs Türesin - Python" src="https://github.com/user-attachments/assets/be1c83fa-4042-47e0-b11f-46d8007fedc2" />
+
+- **Pandas (Kaggle)**
+  
+Through the Pandas course, I practiced the following key concepts:
+
+1. Creating, Reading and Writing – loading, saving, and creating data with pandas.  
+2. Indexing, Selecting & Assigning – accessing and updating subsets of data.  
+3. Summary Functions and Maps – extracting insights with descriptive statistics and mapping.  
+4. Grouping and Sorting – aggregating and ordering data for deeper insights.  
+5. Data Types and Missing Values – handling common data issues and missing values.  
+6. Renaming and Combining – cleaning and merging datasets from multiple sources.
+
+<img width="4800" height="2960" alt="Venüs Türesin - Pandas" src="https://github.com/user-attachments/assets/0e3799f2-6e59-495b-a24a-cfa63301374c" />
 
 
 ## Next Steps
